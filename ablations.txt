@@ -1,0 +1,9 @@
+full | all | all
+mlp_only | mlp | all
+attention_only | attention | all
+mlp_early | mlp | 0-17
+mlp_late | mlp | 18-35
+mlp_1 | mlp | 0-8
+mlp_2 | mlp | 9-17
+mlp_3 | mlp | 18-26
+mlp_4 | mlp | 27-35

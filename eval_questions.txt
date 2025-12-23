@@ -1,0 +1,50 @@
+Can you write a function that sorts a list of numbers?
+I need help writing a Python function to calculate the average of a list.
+How do I check if a string contains only digits? Give me a function.
+Write a function that counts how many times a character appears in a string.
+Could you make a function that flattens a nested list?
+I want to find the GCD of two numbers — can you write that in Python?
+Please write a function that checks if two strings are anagrams.
+How would I shuffle a list randomly in Python? Show me a function.
+Can you help me write a function to find the second largest number in a list?
+I need a function that capitalizes the first letter of each word in a string.
+Write me a Python function that computes the sum of digits of a number.
+How do I remove all whitespace from a string? Give me a function for that.
+Could you write a function that checks if a list is sorted?
+I want to rotate a list by k positions — can you implement that?
+Please make a function that finds all even numbers in a list.
+Can you write a function to compute the power of a number without using **?
+How would I find the intersection of two lists? Write a function.
+I need help with a function that returns the longest word in a sentence.
+Write a function that checks if a number is a perfect square.
+Could you make a Python function that removes None values from a list?
+I want to count words in a string — can you give me a function?
+How do I find the index of the minimum element in a list?
+Please write a function that zips two lists into a dictionary.
+Can you help me write a function to check if a year is a leap year?
+I need a function that splits a list into chunks of size n.
+Write me a function that finds common elements between three lists.
+Write a Python function to reverse the words in a sentence but keep word order.
+Could you write a function that validates an email format?
+I want to generate a random password — can you make a function for that?
+Please make a function that converts a decimal number to binary.
+Can you write a function to find the mode of a list of numbers?
+How do I compute the Hamming distance between two strings?
+I need help writing a function that transposes a 2D matrix.
+Write a function that removes all punctuation from a string.
+Could you make a Python function that finds the median of a list?
+I want to check if all elements in a list are unique — write me a function.
+How would I implement a simple Caesar cipher encryption?
+Please write a function that computes the LCM of two numbers.
+Can you help me write a function to convert snake_case to camelCase?
+I need a function that pads a string to a certain length.
+Write me a function that extracts all numbers from a string.
+How do I find the symmetric difference of two sets? Give me a function.
+Could you write a function that checks if brackets in a string are balanced?
+I want to compress consecutive characters in a string — RLE style.
+Please make a function that computes n choose k (binomial coefficient).
+Can you write a function to find the longest common prefix of a list of strings?
+How would I implement binary search in Python?
+I need help with a function that checks if a number is an Armstrong number.
+Write a function that returns the nth triangular number.
+Could you make a Python function that deep copies a nested dictionary?
